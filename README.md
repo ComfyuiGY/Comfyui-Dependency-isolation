@@ -1,3 +1,6 @@
+![GitHub](https://img.shields.io/github/license/ComfyuiGY/comfyui-dependency-isolation)
+![GitHub release](https://img.shields.io/github/v/release/ComfyuiGY/comfyui-dependency-isolation)
+![GitHub issues](https://img.shields.io/github/issues/ComfyuiGY/comfyui-dependency-isolation)
 # ComfyUI Dependency Isolation
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
