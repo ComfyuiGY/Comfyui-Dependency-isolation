@@ -1,0 +1,25 @@
+comfyui-dependency-isolation/
+├── README.md
+├── LICENSE
+├── requirements.txt
+├── __init__.py
+├── dependency_manager.py
+├── auto_patcher.py
+├── config.py
+├── utils.py
+├── web/
+│   ├── __init__.py
+│   └── extension.js
+├── examples/
+│   ├── example_plugin/
+│   │   ├── __init__.py
+│   │   ├── requirements.txt
+│   │   └── nodes.py
+│   └── conflicting_deps/
+│       ├── __init__.py
+│       ├── requirements.txt
+│       └── nodes.py
+└── tests/
+    ├── __init__.py
+    ├── test_dependency_manager.py
+    └── test_import_isolation.py

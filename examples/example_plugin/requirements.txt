@@ -1,0 +1,4 @@
+# Example dependencies that will be automatically isolated
+numpy==1.24.0
+pillow==10.0.0
+requests==2.31.0

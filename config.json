@@ -1,0 +1,7 @@
+{
+  "auto_initialize": true,
+  "check_updates": false,
+  "timeout": 300,
+  "mirror_url": "https://pypi.tuna.tsinghua.edu.cn/simple/",
+  "log_level": "INFO"
+}

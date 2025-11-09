@@ -1,0 +1,6 @@
+comfyui-dependency-isolation/
+├── dependency_manager.py    # Core dependency management
+├── auto_patcher.py         # Import interception system
+├── config.py              # Configuration handling
+├── web/                   # Web interface files
+└── examples/              # Example plugins

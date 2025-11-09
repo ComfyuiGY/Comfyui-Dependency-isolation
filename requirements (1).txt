@@ -1,0 +1,4 @@
+# Runtime dependencies for the dependency manager itself
+requests>=2.25.0
+packaging>=21.0
+psutil>=5.9.0
